@@ -1,0 +1,71 @@
+[ 2018-06-05T12:00:06+08:00 ] ::1 /Tp3.2carshop/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.014082s ]
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2018-06-05T12:00:35+08:00 ] ::1 /Tp3.2carshop/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.033466s ]
+
+[ 2018-06-05T12:00:41+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Page/index/cateid/135
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015601s ]
+
+[ 2018-06-05T12:00:41+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Page/index/cateid/images/cont.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000270s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002770s ]
+
+[ 2018-06-05T12:00:41+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Page/index/cateid/images/er.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001621s ]
+
+[ 2018-06-05T12:00:41+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Page/index/cateid/images/er.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007239s ]
+
+[ 2018-06-05T12:00:41+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Page/index/cateid/images/cont.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001958s ]
+
+[ 2018-06-05T12:00:42+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Page/index/cateid/135
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000111s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001867s ]
+
+[ 2018-06-05T12:00:44+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Carlist/index/cateid/136
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001335s ]
+
+[ 2018-06-05T12:00:44+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Carlist/index/cateid/images/cont.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002119s ]
+
+[ 2018-06-05T12:00:45+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Carlist/index/cateid/images/er.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002027s ]
+
+[ 2018-06-05T12:00:45+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Carlist/index/cateid/images/cont.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000220s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003458s ]
+
+[ 2018-06-05T12:00:45+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Carlist/index/cateid/images/er.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003154s ]
+
+[ 2018-06-05T12:13:09+08:00 ] ::1 /Tp3.2Carshop/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015604s ]
+

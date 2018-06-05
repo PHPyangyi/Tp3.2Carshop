@@ -1,0 +1,57 @@
+[ 2018-04-22T15:00:21+08:00 ] ::1 /Tp3.2carshop/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.047402s ]
+
+[ 2018-04-22T15:00:21+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/jbox/jquery.jBox-2.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004650s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-04-22T15:00:21+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/validForm/FormValid.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002457s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-04-22T15:00:21+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/ajax.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001825s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-04-22T15:00:21+08:00 ] ::1 /Tp3.2carshop/js/jquery.lightbox-0.5.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000109s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001572s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-04-22T15:00:21+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/jbox/jquery.jBox-2.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002286s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-04-22T15:00:21+08:00 ] ::1 /Tp3.2carshop/images/er.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000138s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002179s ]
+
+[ 2018-04-22T15:00:21+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/ajax.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001890s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-04-22T15:00:21+08:00 ] ::1 /Tp3.2carshop/js/jquery.lightbox-0.5.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000111s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002268s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-04-22T15:00:22+08:00 ] ::1 /Tp3.2carshop/images/er.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000110s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002215s ]
+

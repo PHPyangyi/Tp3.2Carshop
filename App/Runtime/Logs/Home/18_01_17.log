@@ -1,0 +1,17 @@
+[ 2018-01-17T12:19:24+08:00 ] ::1 /Tp3.2carshop/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.037530s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.021514s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.021947s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001994s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002401s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.012363s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012768s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.013805s ]
+INFO: [ app_end ] --END-- [ RunTime:0.014176s ]
+

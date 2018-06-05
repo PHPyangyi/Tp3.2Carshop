@@ -1,0 +1,135 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>车型：车型展示名称__主要车型_这里是您的网站名称</title>
+<meta name="keywords" content="车型：车型展示名称_主要车型" />
+<meta name="description" content="这里是您的网站名称"/>
+
+<meta name="Author" content="024" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+
+ <include file="Public/title"/>
+
+<script type="text/javascript"><!--ibanner-->
+
+$(document).ready(function () {
+	$(".main_visual").hover(function(){
+		$("#btn_prev,#btn_next").fadeIn()
+		},function(){
+		$("#btn_prev,#btn_next").fadeOut()
+		})
+	$dragBln = false;
+	$(".main_image").touchSlider({
+		flexible : true,
+		speed : 200,
+		btn_prev : $("#btn_prev"),
+		btn_next : $("#btn_next"),
+		paging : $(".flicking_con a"),
+		counter : function (e) {
+			$(".flicking_con a").removeClass("on").eq(e.current-1).addClass("on");
+		}
+	});
+	$(".main_image").bind("mousedown", function() {
+		$dragBln = false;
+	})
+	$(".main_image").bind("dragstart", function() {
+		$dragBln = true;
+	})
+	$(".main_image a").click(function() {
+		if($dragBln) {
+			return false;
+		}
+	})
+	timer = setInterval(function() { $("#btn_next").click();}, 5000);
+	$(".main_visual").hover(function() {
+		clearInterval(timer);
+	}, function() {
+		timer = setInterval(function() { $("#btn_next").click();}, 5000);
+	})
+	$(".main_image").bind("touchstart", function() {
+		clearInterval(timer);
+	}).bind("touchend", function() {
+		timer = setInterval(function() { $("#btn_next").click();}, 5000);
+	})
+});
+</script>
+<script><!--pro-->
+		$(function(){
+			// Set starting slide to 1
+			var startSlide = 1;
+			// Get slide number if it exists
+			if (window.location.hash) {
+				startSlide = window.location.hash.replace('#','');
+			}
+			// Initialize Slides
+			$('#slides').slides({
+				preload: true,
+				preloadImage: 'img/loading.gif',
+				generatePagination: true,
+				play: 0,
+				pause: 2500,
+				hoverPause: true,
+				// Get the starting slide
+				start: startSlide,
+				animationComplete: function(current){
+					// Set the slide number as a hash
+					//window.location.hash = '#' + current;
+				}
+			});
+		});
+</script>
+<!--[if IE 6]><script type="text/javascript" src="js/DD_belatedPNG.js"></script><![endif]-->
+</head>
+<body>
+<div class="fixed"> <a href="book.php" title="留言" class="barbook"></a> <a href="javascript:;" title="二维码" class="codepic"></a> <a href="javascript:;" title="返回顶部" class="backup"></a>
+  <div> <img src="http://0001543.ks.panguweb.cn/upfile/qr/qrcode.png" alt="这里是您的网站名称" class="code" /> </div>
+</div>
+<include file="Public/head"/>
+    
+</div>
+<script src="js/fy.js"></script>
+<div class="fy" style=" background:url(./images/4.jpg) center top no-repeat;">
+    	<div class="fra">
+
+            <include file="Public/lefe1"/>
+
+  		</div>
+        <div class="fyRight">
+        		 <div class="aaleft" >
+						<div class="aaleft_kk" id="fix">
+									<a class="fy-left">上<br />一<br />页</a>						</div>
+                   </div>  
+                  
+                <div class="aaleft1" >
+            
+						<div class="aaleft_kk" id="fix1">
+                        
+									<a class="fy-right" href="case_view.php?id=48" title="车型：车型展示名称">下<br />一<br />页</a>						</div>
+                   </div>
+      			<div class="title"> <span class="fl">{$cate.name}</span> <span class="fr">当前位置：<a href="http://0001543.ks.panguweb.cn/" title="首页">首页</a> > <a href="case.php" title="主要车型">主要车型</a> > <font>一级分类名称-1</font> </span></div>
+				<div class="padding25">
+                    <h2 class="center">{$data.title}</h2>
+                    <p class="title_s">文章来源：{$data.author}&nbsp;&nbsp;&nbsp;&nbsp;时间：{$date.time|date="Y-m-d",###} </p>
+                     <!--<div style="width: 200px;height: 200px;background: url('{$data.pic}')  ;margin: auto"></div>-->
+                    <if condition="$data.rizu neq '0'">
+                                        <p class="pro-ri">日租：{$data.rizu}元/天</p>
+                    </if>
+
+                     <p class="pro_cname"><span>详细介绍</span></p>
+                    <div class="newsview">
+                        <?php echo htmlspecialchars_decode($data['content']);?>
+                    
+                    <a href="javascript:history.go(-1) "      class="returnlist" title="返回列表">返回列表</a> </div>
+    			
+  			</div>
+    	</div>
+</div>
+<div class="clear"></div>
+<include file="Public/footer"/>
+
+    </body>
+</html>
+
+

@@ -1,0 +1,114 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>新闻资讯_这里是您的网站名称</title>
+<meta name="keywords" content="这里是您的网站名称" />
+<meta name="description" content="这里是您的网站名称"/>
+<meta name="Author" content="024" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+
+    <include file="Public/title"/>
+
+<script type="text/javascript"><!--ibanner-->
+$(document).ready(function () {
+	$(".main_visual").hover(function(){
+		$("#btn_prev,#btn_next").fadeIn()
+		},function(){
+		$("#btn_prev,#btn_next").fadeOut()
+		})
+	$dragBln = false;
+	$(".main_image").touchSlider({
+		flexible : true,
+		speed : 200,
+		btn_prev : $("#btn_prev"),
+		btn_next : $("#btn_next"),
+		paging : $(".flicking_con a"),
+		counter : function (e) {
+			$(".flicking_con a").removeClass("on").eq(e.current-1).addClass("on");
+		}
+	});
+	$(".main_image").bind("mousedown", function() {
+		$dragBln = false;
+	})
+	$(".main_image").bind("dragstart", function() {
+		$dragBln = true;
+	})
+	$(".main_image a").click(function() {
+		if($dragBln) {
+			return false;
+		}
+	})
+	timer = setInterval(function() { $("#btn_next").click();}, 5000);
+	$(".main_visual").hover(function() {
+		clearInterval(timer);
+	}, function() {
+		timer = setInterval(function() { $("#btn_next").click();}, 5000);
+	})
+	$(".main_image").bind("touchstart", function() {
+		clearInterval(timer);
+	}).bind("touchend", function() {
+		timer = setInterval(function() { $("#btn_next").click();}, 5000);
+	})
+});
+</script>
+<script><!--pro-->
+		$(function(){
+			// Set starting slide to 1
+			var startSlide = 1;
+			// Get slide number if it exists
+			if (window.location.hash) {
+				startSlide = window.location.hash.replace('#','');
+			}
+			// Initialize Slides
+			$('#slides').slides({
+				preload: true,
+				preloadImage: 'img/loading.gif',
+				generatePagination: true,
+				play: 0,
+				pause: 2500,
+				hoverPause: true,
+				// Get the starting slide
+				start: startSlide,
+				animationComplete: function(current){
+					// Set the slide number as a hash
+					//window.location.hash = '#' + current;
+				}
+			});
+		});
+</script>
+</head>
+<body>
+<div class="fixed"> <a href="book.php" title="留言" class="barbook"></a> <a href="javascript:;" title="二维码" class="codepic"></a> <a href="javascript:;" title="返回顶部" class="backup"></a>
+</div>
+<include file="Public/head"/>
+</div>
+<div class="fy" style=" background:url(__PUBLIC__/Home/images/4.jpg) center top no-repeat;">
+    	<div class="fra">
+            <include file="Public/left"/>
+  		</div>
+
+        <div class="fyRight">
+
+            <div class="title"> <span class="fl"> 新闻资讯</span> <span class="fr">当前位置：<a href=" " title="首页">首页</a> > <font>新闻资讯</font> </span></div>
+				    <ul class="news_list">
+
+                      <volist name="list" id="vo">
+                        <li>
+                            <a href="__MODULE__/Article/index/arid/{$vo.id}" title="{$vo.title}">
+                            <span class="fl">{$vo.title}</span><span class="fr">{$vo.time|date="Y-m-d",###}</span></a>
+                        </li>
+                      </volist>
+
+                    </ul>
+
+
+            <div class="page">{$page}</div>
+        </div>
+</div>
+<div class="clear"></div>
+<include file="Public/footer"/>
+    </body>
+</html>
+
+

@@ -1,0 +1,1254 @@
+[ 2018-01-12T13:18:36+08:00 ] ::1 /Tp3.2carshop/Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001867s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002296s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000174s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000542s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037426s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001775s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002189s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002204s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002647s ]
+
+[ 2018-01-12T13:23:06+08:00 ] ::1 /Tp3.2carshop/Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001940s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003182s ]
+ERR: 模板不存在:./App/Admin/View/Index/index.html
+
+[ 2018-01-12T13:24:54+08:00 ] ::1 /Tp3.2carshop/Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002509s ]
+ERR: 模板不存在:./App/Admin/View/Default/Index/index.html
+
+[ 2018-01-12T13:30:38+08:00 ] ::1 /Tp3.2carshop/Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002006s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002772s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003249s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000411s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000838s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027815s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028273s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001964s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002381s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002132s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002575s ]
+
+[ 2018-01-12T13:32:20+08:00 ] ::1 /Tp3.2carshop/Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003852s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.017904s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.020754s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001132s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001884s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.052287s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.052769s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002095s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002498s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002981s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003416s ]
+
+[ 2018-01-12T13:34:25+08:00 ] ::1 /Tp3.2carshop/Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001589s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002645s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003158s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000365s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000720s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022187s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022671s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002252s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002611s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001922s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002272s ]
+
+[ 2018-01-12T13:34:35+08:00 ] ::1 /Tp3.2carshop/Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001958s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002392s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000519s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000959s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023865s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024298s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001268s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001587s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001846s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002235s ]
+
+[ 2018-01-12T13:35:10+08:00 ] ::1 /Tp3.2carshop/Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001364s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002527s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002936s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000401s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000760s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023807s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024208s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002606s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003035s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002171s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002513s ]
+
+[ 2018-01-12T13:35:17+08:00 ] ::1 /Tp3.2carshop/Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001493s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002227s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002660s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000406s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000847s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029263s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029841s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001616s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002058s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002285s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002740s ]
+
+[ 2018-01-12T13:38:34+08:00 ] ::1 /Tp3.2carshop/Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000118s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002198s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002462s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002933s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000450s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000837s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028079s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028494s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001320s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001653s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001867s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002237s ]
+
+[ 2018-01-12T13:39:31+08:00 ] ::1 /Tp3.2carshop/Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001457s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002012s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002407s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000430s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000924s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029297s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029852s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001852s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002307s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001988s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002430s ]
+
+[ 2018-01-12T13:48:38+08:00 ] ::1 /Tp3.2carshop/Admin/Cate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000192s ]
+INFO: [ app_init ] --END-- [ RunTime:0.034617s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015538s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015975s ]
+ERR: 非法操作:index
+
+[ 2018-01-12T13:48:45+08:00 ] ::1 /Tp3.2carshop/Admin/Cate/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001810s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003196s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003690s ]
+ERR: 模板不存在:./App/Admin/View/Default/Cate/lst.html
+
+[ 2018-01-12T13:51:42+08:00 ] ::1 /Tp3.2carshop/Admin/Cate/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001665s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003553s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004275s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000519s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000932s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.194144s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.194606s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.089139s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.089514s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.047310s ]
+INFO: [ app_end ] --END-- [ RunTime:0.047678s ]
+
+[ 2018-01-12T13:52:12+08:00 ] ::1 /Tp3.2carshop/Admin/Cate/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015146s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.017150s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.018892s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.010096s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.010637s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.112911s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.113621s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002117s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002581s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002996s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003543s ]
+
+[ 2018-01-12T13:54:44+08:00 ] ::1 /Tp3.2carshop/Admin/Cate/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001771s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004467s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005093s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000586s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001073s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035665s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036141s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003705s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004355s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003370s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004038s ]
+
+[ 2018-01-12T13:54:49+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Cate/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002062s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002432s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000892s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001482s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:3.525720s ]
+INFO: [ view_parse ] --END-- [ RunTime:3.526144s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002046s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002457s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002701s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003147s ]
+
+[ 2018-01-12T13:54:51+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Article/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001675s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003022s ]
+ERR: 无法加载控制器:Article
+
+[ 2018-01-12T13:54:55+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Cate/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001664s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002737s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000491s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000870s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030504s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031056s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004113s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004607s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002499s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002993s ]
+
+[ 2018-01-12T13:54:56+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Job/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001704s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002514s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003007s ]
+ERR: 无法加载控制器:Job
+
+[ 2018-01-12T13:54:58+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Cate/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001502s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002117s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002526s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000490s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000915s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026547s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026990s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001671s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002026s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009936s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010354s ]
+
+[ 2018-01-12T13:58:16+08:00 ] ::1 /Tp3.2carshop/Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000106s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001687s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002723s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003232s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000498s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000949s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.052093s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.052566s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002850s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003357s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002869s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003387s ]
+
+[ 2018-01-12T13:58:22+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Cate/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002205s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002600s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000554s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000996s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031891s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032300s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001838s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002194s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002477s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002854s ]
+
+[ 2018-01-12T13:58:24+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Article/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001291s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002915s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003341s ]
+ERR: 无法加载控制器:Article
+
+[ 2018-01-12T13:58:26+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Cate/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001765s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004807s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000566s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001005s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037022s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037511s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003012s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003543s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003334s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003804s ]
+
+[ 2018-01-12T13:59:00+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Cate/insert.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000103s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002347s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002703s ]
+ERR: 非法操作:insert
+
+[ 2018-01-12T13:59:17+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Cate/insert.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001262s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002794s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003289s ]
+ERR: 非法操作:insert
+
+[ 2018-01-12T13:59:30+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Cate/insert.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001429s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002547s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003027s ]
+ERR: 非法操作:insert
+
+[ 2018-01-12T13:59:34+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Cate/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002131s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002812s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000563s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000999s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031722s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032223s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005137s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005661s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002524s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002936s ]
+
+[ 2018-01-12T13:59:35+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Cate/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001774s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003098s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003665s ]
+ERR: 模板不存在:./App/Admin/View/Default/Cate/add.html
+
+[ 2018-01-12T14:10:50+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Cate/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026203s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.031805s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.032215s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000630s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001016s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.123279s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.123709s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.035172s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.035563s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.013764s ]
+INFO: [ app_end ] --END-- [ RunTime:0.014187s ]
+
+[ 2018-01-12T14:11:22+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Cate/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010584s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004167s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004831s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000672s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001089s ]
+NOTIC: [8] Undefined variable: vo C:\wamp\www\Tp3.2carshop\App\Runtime\Cache\Admin\a18683a46645d9606a17c3cc0e84ad8f.php 第 111 行.
+NOTIC: [8] Undefined variable: vo C:\wamp\www\Tp3.2carshop\App\Runtime\Cache\Admin\a18683a46645d9606a17c3cc0e84ad8f.php 第 114 行.
+NOTIC: [8] Undefined variable: vo C:\wamp\www\Tp3.2carshop\App\Runtime\Cache\Admin\a18683a46645d9606a17c3cc0e84ad8f.php 第 114 行.
+NOTIC: [8] Undefined variable: vo C:\wamp\www\Tp3.2carshop\App\Runtime\Cache\Admin\a18683a46645d9606a17c3cc0e84ad8f.php 第 116 行.
+NOTIC: [8] Undefined variable: vo C:\wamp\www\Tp3.2carshop\App\Runtime\Cache\Admin\a18683a46645d9606a17c3cc0e84ad8f.php 第 117 行.
+NOTIC: [8] Undefined variable: vo C:\wamp\www\Tp3.2carshop\App\Runtime\Cache\Admin\a18683a46645d9606a17c3cc0e84ad8f.php 第 117 行.
+NOTIC: [8] Undefined variable: vo C:\wamp\www\Tp3.2carshop\App\Runtime\Cache\Admin\a18683a46645d9606a17c3cc0e84ad8f.php 第 117 行.
+NOTIC: [8] Undefined variable: vo C:\wamp\www\Tp3.2carshop\App\Runtime\Cache\Admin\a18683a46645d9606a17c3cc0e84ad8f.php 第 119 行.
+NOTIC: [8] Undefined variable: vo C:\wamp\www\Tp3.2carshop\App\Runtime\Cache\Admin\a18683a46645d9606a17c3cc0e84ad8f.php 第 120 行.
+NOTIC: [8] Undefined variable: vo C:\wamp\www\Tp3.2carshop\App\Runtime\Cache\Admin\a18683a46645d9606a17c3cc0e84ad8f.php 第 121 行.
+NOTIC: [8] Undefined variable: vo C:\wamp\www\Tp3.2carshop\App\Runtime\Cache\Admin\a18683a46645d9606a17c3cc0e84ad8f.php 第 122 行.
+NOTIC: [8] Undefined variable: vo C:\wamp\www\Tp3.2carshop\App\Runtime\Cache\Admin\a18683a46645d9606a17c3cc0e84ad8f.php 第 123 行.
+NOTIC: [8] Undefined variable: vo C:\wamp\www\Tp3.2carshop\App\Runtime\Cache\Admin\a18683a46645d9606a17c3cc0e84ad8f.php 第 124 行.
+NOTIC: [8] Undefined variable: vo C:\wamp\www\Tp3.2carshop\App\Runtime\Cache\Admin\a18683a46645d9606a17c3cc0e84ad8f.php 第 125 行.
+NOTIC: [8] Undefined variable: vo C:\wamp\www\Tp3.2carshop\App\Runtime\Cache\Admin\a18683a46645d9606a17c3cc0e84ad8f.php 第 128 行.
+NOTIC: [8] Undefined variable: vo C:\wamp\www\Tp3.2carshop\App\Runtime\Cache\Admin\a18683a46645d9606a17c3cc0e84ad8f.php 第 133 行.
+NOTIC: [8] Undefined variable: vo C:\wamp\www\Tp3.2carshop\App\Runtime\Cache\Admin\a18683a46645d9606a17c3cc0e84ad8f.php 第 139 行.
+NOTIC: [8] Undefined variable: vo C:\wamp\www\Tp3.2carshop\App\Runtime\Cache\Admin\a18683a46645d9606a17c3cc0e84ad8f.php 第 140 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.049141s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049569s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002111s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002523s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005390s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006580s ]
+
+[ 2018-01-12T14:12:19+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Cate/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001679s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002832s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000511s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000919s ]
+NOTIC: [8] Undefined variable: cates C:\wamp\www\Tp3.2carshop\App\Runtime\Cache\Admin\a18683a46645d9606a17c3cc0e84ad8f.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.050141s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050618s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005688s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006309s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003013s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003484s ]
+
+[ 2018-01-12T14:15:23+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Cate/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001740s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002318s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002768s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000635s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001124s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027325s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027725s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001890s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002261s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002670s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003176s ]
+
+[ 2018-01-12T14:15:48+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Cate/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000142s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003140s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001895s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002266s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000560s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001117s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029320s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029739s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001716s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002109s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004563s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008650s ]
+
+[ 2018-01-12T14:16:06+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Cate/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000222s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001558s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002534s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000536s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000961s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029295s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029769s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001854s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002351s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002734s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003166s ]
+
+[ 2018-01-12T14:16:23+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Cate/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001634s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002234s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002677s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000503s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001042s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034193s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034624s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006205s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006625s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002873s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003329s ]
+
+[ 2018-01-12T14:16:41+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Cate/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001707s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004232s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004761s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000503s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000915s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030143s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030661s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002194s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002618s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002541s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002979s ]
+
+[ 2018-01-12T14:17:24+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Cate/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002664s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003145s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000436s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000803s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026006s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026416s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001463s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001807s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001859s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002206s ]
+
+[ 2018-01-12T14:30:07+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Cate/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000131s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004377s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011392s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012412s ]
+ERR: 模板不存在:./App/Admin/View/Default/Cate/add.html
+
+[ 2018-01-12T14:33:11+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Cate/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001517s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002253s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002695s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000482s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000924s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.048601s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049164s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.017810s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.018225s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.013996s ]
+INFO: [ app_end ] --END-- [ RunTime:0.014364s ]
+
+[ 2018-01-12T14:33:12+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Cate/css/common.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001918s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002824s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003600s ]
+ERR: 非法操作:css
+
+[ 2018-01-12T14:33:12+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Cate/css/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001835s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002632s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003087s ]
+ERR: 非法操作:css
+
+[ 2018-01-12T14:33:12+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Cate/js/libs/modernizr.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001920s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004404s ]
+ERR: 非法操作:js
+
+[ 2018-01-12T14:33:53+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Cate/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001652s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002142s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002548s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000459s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000838s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.159757s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.161044s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002659s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003190s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004062s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004699s ]
+
+[ 2018-01-12T14:36:03+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Cate/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000192s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003036s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002568s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003053s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000544s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000942s ]
+NOTIC: [8] Undefined variable: cates C:\wamp\www\Tp3.2carshop\App\Runtime\Cache\Admin\8fb6253ce1982a2e12a8272964a18fae.php 第 78 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.089178s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.089789s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002195s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002726s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004472s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006408s ]
+
+[ 2018-01-12T14:36:14+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Cate/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002002s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003565s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004174s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000501s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000877s ]
+NOTIC: [8] Undefined variable: cates C:\wamp\www\Tp3.2carshop\App\Runtime\Cache\Admin\8fb6253ce1982a2e12a8272964a18fae.php 第 78 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.049497s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049930s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001762s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002155s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003298s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003849s ]
+
+[ 2018-01-12T14:38:47+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Cate/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001754s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005532s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006124s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000649s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001144s ]
+NOTIC: [8] Undefined variable: cates C:\wamp\www\Tp3.2carshop\App\Runtime\Cache\Admin\8fb6253ce1982a2e12a8272964a18fae.php 第 82 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.130015s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.130558s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001908s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002340s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002351s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002825s ]
+
+[ 2018-01-12T14:39:04+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Cate/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001587s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.013181s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013619s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000635s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001097s ]
+NOTIC: [8] Undefined variable: cates C:\wamp\www\Tp3.2carshop\App\Runtime\Cache\Admin\8fb6253ce1982a2e12a8272964a18fae.php 第 82 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.073429s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.074945s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003124s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003611s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006984s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007707s ]
+
+[ 2018-01-12T14:40:10+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Cate/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000395s ]
+INFO: [ app_init ] --END-- [ RunTime:0.020998s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.026953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.029285s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000845s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001490s ]
+NOTIC: [8] Undefined variable: cates C:\wamp\www\Tp3.2carshop\App\Runtime\Cache\Admin\8fb6253ce1982a2e12a8272964a18fae.php 第 82 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.217835s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.219065s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.027124s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.028058s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.061211s ]
+INFO: [ app_end ] --END-- [ RunTime:0.062107s ]
+
+[ 2018-01-12T14:43:17+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Cate/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013085s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015667s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000661s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001175s ]
+NOTIC: [8] Undefined variable: cates C:\wamp\www\Tp3.2carshop\App\Runtime\Cache\Admin\8fb6253ce1982a2e12a8272964a18fae.php 第 82 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.118292s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.118721s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.028162s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.028671s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.013815s ]
+INFO: [ app_end ] --END-- [ RunTime:0.014273s ]
+
+[ 2018-01-12T14:45:01+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Cate/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002114s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002315s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002794s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000673s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001208s ]
+NOTIC: [8] Undefined variable: vo C:\wamp\www\Tp3.2carshop\App\Runtime\Cache\Admin\a18683a46645d9606a17c3cc0e84ad8f.php 第 127 行.
+NOTIC: [8] Undefined variable: vo C:\wamp\www\Tp3.2carshop\App\Runtime\Cache\Admin\a18683a46645d9606a17c3cc0e84ad8f.php 第 128 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.049810s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050193s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001402s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001736s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001978s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002343s ]
+
+[ 2018-01-12T14:45:03+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Cate/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001446s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002189s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002674s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000696s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001161s ]
+NOTIC: [8] Undefined variable: cates C:\wamp\www\Tp3.2carshop\App\Runtime\Cache\Admin\8fb6253ce1982a2e12a8272964a18fae.php 第 82 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.044954s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045357s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001721s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002179s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003747s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015435s ]
+
+[ 2018-01-12T14:45:12+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Cate/updata/id/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002489s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002957s ]
+ERR: 模板不存在:./App/Admin/View/Default/Cate/updata.html
+
+[ 2018-01-12T14:45:27+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Cate/updata/id/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.002145s ]
+INFO: [ app_init ] --END-- [ RunTime:0.014494s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005725s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006306s ]
+ERR: 模板不存在:./App/Admin/View/Default/Cate/updata.html
+
+[ 2018-01-12T14:46:42+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Cate/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000106s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003920s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002115s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002603s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000677s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001115s ]
+NOTIC: [8] Undefined variable: vo C:\wamp\www\Tp3.2carshop\App\Runtime\Cache\Admin\a18683a46645d9606a17c3cc0e84ad8f.php 第 127 行.
+NOTIC: [8] Undefined variable: vo C:\wamp\www\Tp3.2carshop\App\Runtime\Cache\Admin\a18683a46645d9606a17c3cc0e84ad8f.php 第 128 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.041982s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042414s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001959s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002732s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005152s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005859s ]
+
+[ 2018-01-12T14:46:43+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Cate/update/id/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001404s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002290s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002716s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000528s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000903s ]
+NOTIC: [8] Undefined variable: cates C:\wamp\www\Tp3.2carshop\App\Runtime\Cache\Admin\cd5c282ecbc20ba5e97e8c350ab0635e.php 第 82 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.074456s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.075063s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002196s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002627s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004275s ]
+
+[ 2018-01-12T14:47:59+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Cate/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002576s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003142s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003765s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001559s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002367s ]
+NOTIC: [8] Undefined variable: cates C:\wamp\www\Tp3.2carshop\App\Runtime\Cache\Admin\8fb6253ce1982a2e12a8272964a18fae.php 第 82 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.102401s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.102953s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.019012s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.023142s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.029776s ]
+INFO: [ app_end ] --END-- [ RunTime:0.030561s ]
+
+[ 2018-01-12T14:56:17+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Cate/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001824s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003826s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004626s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000696s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001139s ]
+NOTIC: [8] Undefined variable: cates C:\wamp\www\Tp3.2carshop\App\Runtime\Cache\Admin\8fb6253ce1982a2e12a8272964a18fae.php 第 82 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.055288s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.055690s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001576s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001946s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002885s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003387s ]
+
+[ 2018-01-12T14:56:36+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Cate/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000121s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004739s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002833s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003322s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000676s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001143s ]
+NOTIC: [8] Undefined variable: cates C:\wamp\www\Tp3.2carshop\App\Runtime\Cache\Admin\8fb6253ce1982a2e12a8272964a18fae.php 第 82 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046215s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046650s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001829s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002290s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002576s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003041s ]
+
+[ 2018-01-12T18:25:58+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Cate/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.023006s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.024657s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.025103s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000530s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001024s ]
+NOTIC: [8] Undefined variable: cates C:\wamp\www\Tp3.2carshop\App\Runtime\Cache\Admin\8fb6253ce1982a2e12a8272964a18fae.php 第 82 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.354367s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.354743s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.012830s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013186s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.013614s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013988s ]
+
+[ 2018-01-12T18:26:07+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Cate/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000123s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002798s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000719s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001334s ]
+NOTIC: [8] Undefined variable: cates C:\wamp\www\Tp3.2carshop\App\Runtime\Cache\Admin\8fb6253ce1982a2e12a8272964a18fae.php 第 82 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.041329s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041857s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001763s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002154s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004476s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007802s ]
+
+[ 2018-01-12T18:27:23+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Cate/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002745s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002340s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002844s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2018-01-12T18:28:37+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Cate/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001872s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002796s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003322s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\Pdo
+
+[ 2018-01-12T18:28:50+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Cate/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001572s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002914s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003385s ]
+ERR: 1146:Table 'weibo.weibo_cate' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `weibo_cate`
+ERR: 1146:Table 'weibo.weibo_cate' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `weibo_cate`
+
+[ 2018-01-12T18:29:32+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Cate/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001498s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002462s ]
+SQL: SHOW COLUMNS FROM `cs_cate` [ RunTime:0.0426s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000712s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001143s ]
+NOTIC: [8] Undefined variable: cates C:\wamp\www\Tp3.2carshop\App\Runtime\Cache\Admin\8fb6253ce1982a2e12a8272964a18fae.php 第 82 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.079980s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.080419s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001621s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002247s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002629s ]
+
+[ 2018-01-12T18:36:06+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Cate/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000134s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003007s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003554s ]
+SQL: SHOW COLUMNS FROM `cs_cate` [ RunTime:0.0598s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000721s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001234s ]
+NOTIC: [8] Undefined variable: cates C:\wamp\www\Tp3.2carshop\App\Runtime\Cache\Admin\8fb6253ce1982a2e12a8272964a18fae.php 第 82 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046693s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047149s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002485s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002997s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002474s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002957s ]
+
+[ 2018-01-12T18:37:56+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Cate/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001607s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004091s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004649s ]
+SQL: SHOW COLUMNS FROM `cs_cate` [ RunTime:0.0296s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000599s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001005s ]
+NOTIC: [8] Undefined variable: cates C:\wamp\www\Tp3.2carshop\App\Runtime\Cache\Admin\8fb6253ce1982a2e12a8272964a18fae.php 第 82 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035372s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035755s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001773s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002131s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002260s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002774s ]
+
+[ 2018-01-12T18:38:32+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Cate/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001711s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002867s ]
+SQL: SHOW COLUMNS FROM `cs_cate` [ RunTime:0.0294s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000993s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001498s ]
+NOTIC: [8] Undefined variable: cates C:\wamp\www\Tp3.2carshop\App\Runtime\Cache\Admin\8fb6253ce1982a2e12a8272964a18fae.php 第 82 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.042185s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042688s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003792s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005236s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002516s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003558s ]
+
+[ 2018-01-12T18:38:36+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Cate/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001674s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002127s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002619s ]
+SQL: SHOW COLUMNS FROM `cs_cate` [ RunTime:0.0551s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000690s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001230s ]
+NOTIC: [8] Undefined variable: cates C:\wamp\www\Tp3.2carshop\App\Runtime\Cache\Admin\8fb6253ce1982a2e12a8272964a18fae.php 第 82 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040794s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041259s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001899s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002336s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003273s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003867s ]
+
+[ 2018-01-12T18:39:41+08:00 ] ::1 /Tp3.2carshop/index.php/Admin/Cate/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002130s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002247s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002717s ]
+SQL: SHOW COLUMNS FROM `cs_cate` [ RunTime:0.0440s ]
+NOTIC: [8] Undefined index: validate C:\wamp\www\Tp3.2carshop\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto C:\wamp\www\Tp3.2carshop\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `cs_cate` (`name`,`type`,`pc`,`class`,`content`,`keywords`,`des`,`parentid`) VALUES ('11111111111','1','1','1','&lt;p&gt;11111111111111111111&lt;br/&gt;&lt;/p&gt;','111111111111','1111111111111111','0') [ RunTime:0.0259s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000812s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001364s ]
+NOTIC: [8] Undefined variable: cates C:\wamp\www\Tp3.2carshop\App\Runtime\Cache\Admin\8fb6253ce1982a2e12a8272964a18fae.php 第 82 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.044631s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045110s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002102s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002557s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006017s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006611s ]
+

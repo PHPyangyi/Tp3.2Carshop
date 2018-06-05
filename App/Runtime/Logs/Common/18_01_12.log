@@ -1,0 +1,30 @@
+[ 2018-01-12T13:18:21+08:00 ] ::1 /Tp3.2carshop/Hoem
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001255s ]
+ERR: 无法加载模块:Hoem
+
+[ 2018-01-12T13:18:40+08:00 ] ::1 /Tp3.2carshop/Moild
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001275s ]
+ERR: 无法加载模块:Moild
+
+[ 2018-01-12T13:30:39+08:00 ] ::1 /Tp3.2carshop/css/common.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001751s ]
+ERR: 无法加载模块:Css
+
+[ 2018-01-12T13:30:39+08:00 ] ::1 /Tp3.2carshop/css/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000109s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006323s ]
+ERR: 无法加载模块:Css
+
+[ 2018-01-12T13:30:39+08:00 ] ::1 /Tp3.2carshop/js/libs/modernizr.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001847s ]
+ERR: 无法加载模块:Js
+

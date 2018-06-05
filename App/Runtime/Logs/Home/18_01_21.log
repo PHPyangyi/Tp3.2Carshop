@@ -1,0 +1,964 @@
+[ 2018-01-21T21:03:29+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/ajax.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000179s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003139s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:03:29+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/jbox/jquery.jBox-2.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002472s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:03:30+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Rylist/index/cateid/images/cont.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001480s ]
+
+[ 2018-01-21T21:03:30+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Rylist/index/cateid/images/er.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000819s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002986s ]
+
+[ 2018-01-21T21:03:30+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/ajax.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002037s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:03:30+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Rylist/index/cateid/images/4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000139s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001768s ]
+
+[ 2018-01-21T21:03:30+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Rylist/index/cateid/images/er.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001568s ]
+
+[ 2018-01-21T21:03:30+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Rylist/index/cateid/images/cont.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004642s ]
+
+[ 2018-01-21T21:03:32+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Rylist/index/cateid/146
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001739s ]
+
+[ 2018-01-21T21:03:32+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/jbox/jquery.jBox-2.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001603s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:03:32+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/validForm/FormValid.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001980s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:03:32+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/ajax.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002802s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:03:32+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Rylist/index/cateid/images/er.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001532s ]
+
+[ 2018-01-21T21:03:32+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Rylist/index/cateid/images/cont.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001255s ]
+
+[ 2018-01-21T21:03:32+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/jbox/jquery.jBox-2.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001581s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:03:32+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/ajax.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001633s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:03:32+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Rylist/index/cateid/images/er.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001862s ]
+
+[ 2018-01-21T21:03:32+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Rylist/index/cateid/images/4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003660s ]
+
+[ 2018-01-21T21:03:32+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Rylist/index/cateid/images/cont.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001911s ]
+
+[ 2018-01-21T21:03:34+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Carlist/index/cateid/136
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002792s ]
+
+[ 2018-01-21T21:03:34+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/ajax.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001500s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:03:34+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/validForm/FormValid.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001639s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:03:34+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/jbox/jquery.jBox-2.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001569s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:03:34+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Carlist/index/cateid/images/er.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002459s ]
+
+[ 2018-01-21T21:03:34+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Carlist/index/cateid/images/cont.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002386s ]
+
+[ 2018-01-21T21:03:34+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/js/jquery.lightbox-0.5.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000142s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008392s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:03:34+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/ajax.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001336s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:03:34+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/js/jquery.lightbox-0.5.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002333s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:03:34+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Carlist/index/cateid/images/er.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001712s ]
+
+[ 2018-01-21T21:03:34+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Carlist/index/cateid/images/cont.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002808s ]
+
+[ 2018-01-21T21:03:35+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Page/index/cateid/135
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001229s ]
+
+[ 2018-01-21T21:03:35+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/ajax.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002156s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:03:35+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/validForm/FormValid.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.018036s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:03:35+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/jbox/jquery.jBox-2.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001754s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:03:35+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Page/index/cateid/images/er.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001454s ]
+
+[ 2018-01-21T21:03:35+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Page/index/cateid/images/cont.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001392s ]
+
+[ 2018-01-21T21:03:35+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/ajax.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001725s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:03:36+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Page/index/cateid/images/cont.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001793s ]
+
+[ 2018-01-21T21:03:36+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Page/index/cateid/images/er.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002870s ]
+
+[ 2018-01-21T21:03:36+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Page/index/cateid/135
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001311s ]
+
+[ 2018-01-21T21:03:37+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Arlist/index/cateid/137
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000148s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001725s ]
+
+[ 2018-01-21T21:03:37+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/jbox/jquery.jBox-2.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001531s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:03:37+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/ajax.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002153s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:03:37+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/validForm/FormValid.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001773s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:03:37+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Arlist/index/cateid/images/cont.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002578s ]
+
+[ 2018-01-21T21:03:37+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Arlist/index/cateid/images/er.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001766s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003280s ]
+
+[ 2018-01-21T21:03:37+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/jbox/jquery.jBox-2.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002361s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:03:37+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/ajax.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001286s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:03:37+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Arlist/index/cateid/images/er.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001730s ]
+
+[ 2018-01-21T21:03:37+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Arlist/index/cateid/images/cont.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001899s ]
+
+[ 2018-01-21T21:03:38+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Page/index/cateid/153
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001457s ]
+
+[ 2018-01-21T21:03:38+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/validForm/FormValid.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000187s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003220s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:03:38+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/jbox/jquery.jBox-2.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001594s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:03:38+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/ajax.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001773s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:03:38+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Page/index/cateid/images/er.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001381s ]
+
+[ 2018-01-21T21:03:38+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/jbox/jquery.jBox-2.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002160s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:03:38+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Page/index/cateid/images/cont.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001704s ]
+
+[ 2018-01-21T21:03:38+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Page/index/cateid/153
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001484s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006143s ]
+
+[ 2018-01-21T21:03:38+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/ajax.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001458s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:03:38+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Page/index/cateid/images/er.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002656s ]
+
+[ 2018-01-21T21:03:38+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Page/index/cateid/images/cont.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000182s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002009s ]
+
+[ 2018-01-21T21:03:39+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Page/index/cateid/153
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001818s ]
+
+[ 2018-01-21T21:03:39+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Zplist/index/cateid/154
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001192s ]
+
+[ 2018-01-21T21:03:39+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/validForm/FormValid.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001640s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:03:39+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/jbox/jquery.jBox-2.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001828s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:03:39+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/ajax.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005647s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:03:39+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Zplist/index/cateid/images/cont.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002431s ]
+
+[ 2018-01-21T21:03:39+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Zplist/index/cateid/images/er.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001680s ]
+
+[ 2018-01-21T21:03:39+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Zplist/index/cateid/images/4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000103s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002404s ]
+
+[ 2018-01-21T21:04:04+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Zplist/index/cateid/154
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001683s ]
+
+[ 2018-01-21T21:04:05+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/jbox/jquery.jBox-2.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001819s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:04:05+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/ajax.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003316s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:04:05+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/validForm/FormValid.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001966s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:04:05+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Zplist/index/cateid/images/cont.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001391s ]
+
+[ 2018-01-21T21:04:05+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Zplist/index/cateid/images/er.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001660s ]
+
+[ 2018-01-21T21:04:05+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/jbox/jquery.jBox-2.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000122s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002258s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:04:05+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/ajax.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002634s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:04:05+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Zplist/index/cateid/images/cont.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001836s ]
+
+[ 2018-01-21T21:04:05+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Zplist/index/cateid/images/er.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000330s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008514s ]
+
+[ 2018-01-21T21:04:06+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Zplist/index/cateid/154
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001706s ]
+
+[ 2018-01-21T21:04:06+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/jbox/jquery.jBox-2.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002068s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:04:06+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/ajax.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001670s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:04:06+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/validForm/FormValid.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002557s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:04:06+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Zplist/index/cateid/images/cont.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001404s ]
+
+[ 2018-01-21T21:04:06+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Zplist/index/cateid/images/er.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001268s ]
+
+[ 2018-01-21T21:04:06+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/jbox/jquery.jBox-2.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001712s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:04:06+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/ajax.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001260s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:04:06+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Zplist/index/cateid/images/er.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000123s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003463s ]
+
+[ 2018-01-21T21:04:06+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Zplist/index/cateid/images/cont.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002069s ]
+
+[ 2018-01-21T21:04:18+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Zplist/index/cateid/154
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002590s ]
+
+[ 2018-01-21T21:04:18+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/jbox/jquery.jBox-2.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001512s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:04:18+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/ajax.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000172s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004333s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:04:18+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/validForm/FormValid.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002217s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:04:18+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Zplist/index/cateid/images/cont.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002758s ]
+
+[ 2018-01-21T21:04:18+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Zplist/index/cateid/images/er.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001748s ]
+
+[ 2018-01-21T21:04:18+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/jbox/jquery.jBox-2.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001726s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:04:18+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/ajax.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001369s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:04:18+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Zplist/index/cateid/images/cont.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000119s ]
+INFO: [ app_init ] --END-- [ RunTime:0.032144s ]
+
+[ 2018-01-21T21:04:18+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Zplist/index/cateid/images/er.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002304s ]
+
+[ 2018-01-21T21:04:19+08:00 ] ::1 /Tp3.2carshop/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001163s ]
+
+[ 2018-01-21T21:04:19+08:00 ] ::1 /Tp3.2carshop/js/jquery.lightbox-0.5.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001773s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-01-21T21:04:19+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/jbox/jquery.jBox-2.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005580s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:04:19+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/ajax.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001710s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:04:19+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/validForm/FormValid.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001786s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:04:19+08:00 ] ::1 /Tp3.2carshop/images/er.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003029s ]
+
+[ 2018-01-21T21:04:19+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/jbox/jquery.jBox-2.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000160s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002633s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:04:19+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/ajax.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001599s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:04:19+08:00 ] ::1 /Tp3.2carshop/js/jquery.lightbox-0.5.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000257s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002956s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-01-21T21:04:20+08:00 ] ::1 /Tp3.2carshop/images/er.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002662s ]
+
+[ 2018-01-21T21:04:22+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Carlist/index/cateid/136
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001161s ]
+
+[ 2018-01-21T21:04:22+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/js/jquery.lightbox-0.5.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001687s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:04:22+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/ajax.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003796s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:04:22+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/jbox/jquery.jBox-2.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013290s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:04:22+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/validForm/FormValid.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000203s ]
+INFO: [ app_init ] --END-- [ RunTime:0.049240s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:04:22+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Carlist/index/cateid/images/er.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001542s ]
+
+[ 2018-01-21T21:04:22+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Carlist/index/cateid/images/cont.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001561s ]
+
+[ 2018-01-21T21:04:22+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/jbox/jquery.jBox-2.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001579s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:04:23+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/ajax.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000111s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003188s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:04:23+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/js/jquery.lightbox-0.5.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002111s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:04:23+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Carlist/index/cateid/images/cont.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002844s ]
+
+[ 2018-01-21T21:04:23+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Carlist/index/cateid/images/er.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005364s ]
+
+[ 2018-01-21T21:04:27+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Page/index/cateid/135
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001390s ]
+
+[ 2018-01-21T21:04:27+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/jbox/jquery.jBox-2.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002550s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:04:27+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/ajax.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001997s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:04:27+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/validForm/FormValid.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001986s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:04:28+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Page/index/cateid/images/cont.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002406s ]
+
+[ 2018-01-21T21:04:28+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Page/index/cateid/images/er.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002073s ]
+
+[ 2018-01-21T21:04:28+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Page/index/cateid/135
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002581s ]
+
+[ 2018-01-21T21:04:28+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/jbox/jquery.jBox-2.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001815s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:04:28+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/ajax.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001241s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:04:28+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Page/index/cateid/images/cont.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001708s ]
+
+[ 2018-01-21T21:04:28+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Page/index/cateid/images/er.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006331s ]
+
+[ 2018-01-21T21:04:28+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Page/index/cateid/135
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002387s ]
+
+[ 2018-01-21T21:04:30+08:00 ] ::1 /Tp3.2carshop/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001380s ]
+
+[ 2018-01-21T21:04:30+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/validForm/FormValid.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001303s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:04:30+08:00 ] ::1 /Tp3.2carshop/js/jquery.lightbox-0.5.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000121s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001417s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-01-21T21:04:30+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/ajax.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001360s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:04:30+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/jbox/jquery.jBox-2.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001219s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:04:30+08:00 ] ::1 /Tp3.2carshop/images/er.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002219s ]
+
+[ 2018-01-21T21:04:30+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/ajax.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001692s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:04:30+08:00 ] ::1 /Tp3.2carshop/js/jquery.lightbox-0.5.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002047s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-01-21T21:04:30+08:00 ] ::1 /Tp3.2carshop/images/er.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000106s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001749s ]
+
+[ 2018-01-21T21:05:19+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Page/index/cateid/135
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002009s ]
+
+[ 2018-01-21T21:05:20+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/validForm/FormValid.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004602s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:05:20+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/jbox/jquery.jBox-2.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002416s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:05:20+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/ajax.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002927s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:05:20+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Page/index/cateid/images/er.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001299s ]
+
+[ 2018-01-21T21:05:20+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Page/index/cateid/images/cont.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000108s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002816s ]
+
+[ 2018-01-21T21:05:20+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/jbox/jquery.jBox-2.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009229s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:05:20+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Page/index/cateid/135
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001530s ]
+
+[ 2018-01-21T21:05:20+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/ajax.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001611s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:05:20+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Page/index/cateid/images/er.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001711s ]
+
+[ 2018-01-21T21:05:20+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Page/index/cateid/images/cont.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000140s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002027s ]
+
+[ 2018-01-21T21:05:20+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Page/index/cateid/135
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000106s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002477s ]
+
+[ 2018-01-21T21:05:22+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Carlist/index/cateid/136
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002202s ]
+
+[ 2018-01-21T21:05:22+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/js/jquery.lightbox-0.5.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002399s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:05:22+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/ajax.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006433s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:05:22+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/validForm/FormValid.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002096s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:05:22+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/jbox/jquery.jBox-2.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008233s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:05:22+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Carlist/index/cateid/images/er.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001809s ]
+
+[ 2018-01-21T21:05:22+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Carlist/index/cateid/images/cont.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001388s ]
+
+[ 2018-01-21T21:05:22+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/ajax.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.005543s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007869s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:05:22+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/js/jquery.lightbox-0.5.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001522s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:05:22+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Carlist/index/cateid/images/er.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001971s ]
+
+[ 2018-01-21T21:05:22+08:00 ] ::1 /Tp3.2carshop/index.php/Home/Carlist/index/cateid/images/cont.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000141s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003939s ]
+
+[ 2018-01-21T21:07:43+08:00 ] ::1 /Tp3.2carshop/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001696s ]
+
+[ 2018-01-21T21:07:43+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/validForm/FormValid.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001679s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:07:43+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/jbox/jquery.jBox-2.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001924s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:07:43+08:00 ] ::1 /Tp3.2carshop/js/jquery.lightbox-0.5.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000124s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001729s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-01-21T21:07:43+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/ajax.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000153s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003858s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:07:43+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/jbox/jquery.jBox-2.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001469s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:07:43+08:00 ] ::1 /Tp3.2carshop/images/er.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003511s ]
+
+[ 2018-01-21T21:07:43+08:00 ] ::1 /Tp3.2carshop/Public/Home/style/ajax.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001356s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-01-21T21:07:43+08:00 ] ::1 /Tp3.2carshop/js/jquery.lightbox-0.5.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002285s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-01-21T21:07:44+08:00 ] ::1 /Tp3.2carshop/images/er.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002087s ]
+

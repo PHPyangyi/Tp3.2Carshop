@@ -1,0 +1,242 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>这里是您的网站名称_这里是您的网站名称</title>
+<meta name="keywords" content="这里是您的网站名称" />
+<meta name="description" content="这里是您的网站名称"/>
+
+<meta name="Author" content="024" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+
+    <include file="Public/title"/>
+
+    <script type="text/javascript"><!--ibanner-->
+
+$(document).ready(function () {
+	$(".main_visual").hover(function(){
+		$("#btn_prev,#btn_next").fadeIn()
+		},function(){
+		$("#btn_prev,#btn_next").fadeOut()
+		})
+	$dragBln = false;
+	$(".main_image").touchSlider({
+		flexible : true,
+		speed : 200,
+		btn_prev : $("#btn_prev"),
+		btn_next : $("#btn_next"),
+		paging : $(".flicking_con a"),
+		counter : function (e) {
+			$(".flicking_con a").removeClass("on").eq(e.current-1).addClass("on");
+		}
+	});
+	$(".main_image").bind("mousedown", function() {
+		$dragBln = false;
+	})
+	$(".main_image").bind("dragstart", function() {
+		$dragBln = true;
+	})
+	$(".main_image a").click(function() {
+		if($dragBln) {
+			return false;
+		}
+	})
+	timer = setInterval(function() { $("#btn_next").click();}, 5000);
+	$(".main_visual").hover(function() {
+		clearInterval(timer);
+	}, function() {
+		timer = setInterval(function() { $("#btn_next").click();}, 5000);
+	})
+	$(".main_image").bind("touchstart", function() {
+		clearInterval(timer);
+	}).bind("touchend", function() {
+		timer = setInterval(function() { $("#btn_next").click();}, 5000);
+	})
+});
+</script>
+<script><!--pro-->
+		$(function(){
+			// Set starting slide to 1
+			var startSlide = 1;
+			// Get slide number if it exists
+			if (window.location.hash) {
+				startSlide = window.location.hash.replace('#','');
+			}
+			// Initialize Slides
+			$('#slides').slides({
+				preload: true,
+				preloadImage: 'img/loading.gif',
+				generatePagination: true,
+				play: 0,
+				pause: 2500,
+				hoverPause: true,
+				// Get the starting slide
+				start: startSlide,
+				animationComplete: function(current){
+					// Set the slide number as a hash
+					//window.location.hash = '#' + current;
+				}
+			});
+		});
+</script>
+<!--[if IE 6]><script type="text/javascript" src="js/DD_belatedPNG.js"></script><![endif]-->
+</head>
+<body>
+<div class="fixed"> <a href="book.php" title="留言" class="barbook"></a> <a href="javascript:;" title="二维码" class="codepic"></a> <a href="javascript:;" title="返回顶部" class="backup"></a>
+  <div> <img src="http://0001543.ks.panguweb.cn/upfile/qr/qrcode.png" alt="这里是您的网站名称" class="code" /> </div>
+</div>
+
+
+<include file="Public/head"/>
+
+<div class="clear"></div>
+<div class="banner">
+  <div class="main_visual">
+    
+
+    <div class="main_image">
+    
+      <ul>
+                        <li><span class="img_3" style="background:url(__PUBLIC__/Home/images/1.jpg) no-repeat top;"></span></li>
+                
+                          <li><span class="img_3" style="background:url(__PUBLIC__/Home/images/2.jpg) no-repeat top;"></span></li>
+                
+                          <li><span class="img_3" style="background:url(__PUBLIC__/Home/images/3.jpg) no-repeat top;"></span></li>
+                
+              </ul>
+      <a href="javascript:;" id="btn_prev"></a> <a href="javascript:;" id="btn_next"></a> </div>
+  </div>
+</div>
+<div class="clear"></div>
+
+<div class="case">
+	<div class="fra1">
+   	  <div class="caseleft">
+
+
+
+       	<p class="name"><b>资质荣誉</b><span>
+           Aptitude honor
+        </span></p>
+
+          <a class="case-more" title="查看更多" href="case.php">查看更多</a>
+      </div>
+      <div class="caseright">
+
+              <marquee scrollamount="2" scrolldelay="5" onMouseOut="this.start()" onMouseOver="this.stop()">
+                             </marquee>
+            </div>
+                        <ul class="caseul">
+
+                            <volist name="rylist" id="vo">
+                        	<li>
+                	<a href="http://localhost/Tp3.2carshop/index.php/Home/Article/index/arid/{$vo.id}" title="荣誉：{$vo.title}">
+                	<img src="{$vo.pic}" alt="荣誉：{$vo.title}" width="215" height="161" />
+                    <span>荣誉：{$vo.title}</span>
+                	</a>
+                </li>
+                            </volist>
+                            </ul>
+                  </div>
+    </div>
+</div>
+<div class="clear"></div>
+<div class="product">
+	<script type="text/javascript" src="js/jquery.lightbox-0.5.min.js"></script>
+<script type="text/javascript">
+    $(function() {
+        $('.zoombut').lightBox();
+    });
+</script>
+	<div class="fra1">
+
+
+    	<p class="pro-name"><b>车辆展示</b><span>Vehicles Show</span></p>
+        <div id="container">
+      <div id="example">
+        <div id="slides">
+          <div class="slides_container" >
+                                 <div class="slide">            
+               	<ul class="product-ul">
+                    <volist name="car" id="vo">
+            	                     <li>
+                        <a href="http://localhost/Tp3.2carshop/index.php/Home/Article/index/arid/{$vo.id}" title="车型：{$vo.title}">
+                        	<p class="casetitle" ><span title="车型：{$vo.title}" href="http://localhost/Tp3.2carshop/index.php/Home/Article/index/arid/{$vo.id}" class="zoombut"></span><span class="jianjie">车型：{$vo.title}</span> </p>
+                            <img src="{$vo.pic}" width="245" height="184" alt="车型：{$vo.title}" />
+                            <p class="wor"><span>车型：{$vo.title}</span><label>日租：{$vo.rizu}元/天</label></p>
+                        </a>
+                     </li> 
+                    </volist>
+            	</ul>
+              
+            </div>
+                        <div class="slide">
+               	<ul class="product-ul">
+                    <volist name="car" id="vo">
+                    <li>
+                        <a href="http://localhost/Tp3.2carshop/index.php/Home/Article/index/arid/{$vo.id}" title="车型：{$vo.title}">
+                            <p class="casetitle" ><span title="车型：{$vo.title}" href="http://localhost/Tp3.2carshop/index.php/Home/Article/index/arid/{$vo.id}" class="zoombut"></span><span class="jianjie">车型：{$vo.title}</span> </p>
+                            <img src="{$vo.pic}" width="245" height="184" alt="车型：{$vo.title}" />
+                            <p class="wor"><span>车型：{$vo.title}</span><label>日租：{$vo.rizu}元/天</label></p>
+                        </a>
+                    </li>
+                    </volist>
+            	</ul>
+
+            </div>
+                                    </div>
+          <a href="#" class="prev" title="prev">&nbsp;&nbsp;</a><a href="" class="next" title="next">&nbsp;</a> </div>
+      </div>
+    </div>
+    <div class="clear"></div>
+    <a class="pro-more" href="http://localhost/Tp3.2carshop/index.php/Home/Carlist/index/cateid/136" title="查看更多">查看更多</a>
+    </div>
+</div>
+<div class="clear"></div>
+<div class="news">
+	<div class="fra">
+    	<div class="about-left">
+            <p class="ab-con" style=" margin-top: -170px;">　
+
+            <p class="ab-name" style="margin-top:-20px;"><span>a b o u t&nbsp;&nbsp; u s</span><b>关于我们</b></p>
+
+            <?php echo  htmlspecialchars_decode($gy['content']);?>
+            </p>
+			<a class="ab-more" href="http://localhost/Tp3.2carshop/index.php/Home/Page/index/cateid/135" title="查看更多">查看详情</a>
+        </div>
+        <div class="news-right">
+        	<p class="news-name"><span>n e w s</span><b>新闻资讯</b></p> 
+                         <ul class="news-ul">
+
+                             <volist name="arlist" id="vo">
+                        	<li>
+
+                    <a href="http://localhost/Tp3.2carshop/index.php/Home/Article/index/arid/{$vo.id}" title="{$vo.title}">
+                    	<p>{$vo.title}</p>
+                        <span>{$vo.time|date="Y-m-d",###}</span>
+                    </a>
+                </li>
+                             </volist>
+                            </ul>
+                         <a class="news-more" href="http://localhost/Tp3.2carshop/index.php/Home/Arlist/index/cateid/137" title="查看更多">查看更多</a>
+        </div>
+    </div>
+</div>
+<div class="z-notice">
+	<a href="http://localhost/Tp3.2carshop/index.php/Home/Page/index/cateid/153" title="租车须知">租车须知</a>
+    <div style="width: 1000px;height: 250px;">
+        <img src="__PUBLIC__/Home/images/20150804152838-947160084.jpg" alt="租车" width="1000" height="250"  />
+    </div>
+
+</div>
+<div class="clear"></div>
+
+</div>
+
+
+<include file="Public/footer"/>
+
+    </body>
+</html>
+
